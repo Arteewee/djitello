@@ -11,5 +11,5 @@ I made a program for the DJI Tello drone so that it can fly automatically follow
 * Numpy
 * Time
 
-** Program UI
+## Program UI
 ![djitello](https://user-images.githubusercontent.com/48760006/137682215-2b85e666-c738-45f8-847a-ead0de37f418.jpg)
